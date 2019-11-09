@@ -1,1 +1,1 @@
-# Machine-Learning-of-IRIS-data
+# project of Machine Learning 
